@@ -1,0 +1,14 @@
+{
+    "status": "OK",
+    "results": [
+      {
+        "name": "Pizza Palace",
+        "geometry": { "location": { "lat": 37.7749, "lng": -122.4194 } }
+      },
+      {
+        "name": "Burger Bistro",
+        "geometry": { "location": { "lat": 37.7750, "lng": -122.4195 } }
+      }
+    ]
+  }
+  

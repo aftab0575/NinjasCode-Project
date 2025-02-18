@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Test Restaurant 1",
+    "vicinity": "123 Test Street",
+    "rating": 4.5,
+    "price_level": 2,
+    "geometry": { "location": { "lat": 37.7749, "lng": -122.4194 } },
+    "photos": [{ "photo_reference": "test_photo_reference" }]
+  },
+  {
+    "name": "Test Restaurant 2",
+    "vicinity": "456 Test Avenue",
+    "rating": 3.8,
+    "price_level": 1,
+    "geometry": { "location": { "lat": 37.7750, "lng": -122.4195 } },
+    "photos": [{ "photo_reference": "test_photo_reference" }]
+  }
+]
