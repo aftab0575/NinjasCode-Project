@@ -1,3 +1,37 @@
+# 📍 Next.js Restaurant Finder
+
+Find the best restaurants near you with just one click! This **Next.js 14+** application retrieves your current location and displays nearby restaurants in a responsive grid layout. Built with **TypeScript**, **Tailwind CSS**, and **PrimeReact**, it ensures a seamless and scalable user experience. 🚀
+
+---
+
+## ✨ Features
+✅ **Get User Location** – Fetch the user's current location using browser geolocation.  
+✅ **Display Location** – Show the location in a text area and dropdown.  
+✅ **Find Restaurants** – Query an API using latitude and longitude.  
+✅ **Responsive Grid** – Display restaurant results in an intuitive, mobile-friendly grid layout.  
+✅ **Scalable & Maintainable** – Built with **TypeScript** for type safety and **Cypress** for end-to-end testing.  
+
+---
+
+## 🛠️ Tech Stack
+| Technology  | Description |
+|------------|------------|
+| **Next.js 14+** | App Router-based React framework |
+| **TypeScript** | Type-safe JavaScript for scalability |
+| **Tailwind CSS** | Utility-first CSS framework for styling |
+| **PrimeReact** | Rich UI components for React |
+| **Cypress** | End-to-end and unit testing framework |
+
+---
+
+## 🚀 Getting Started
+
+### 1️⃣ Clone the Repository
+```sh
+git clone https://github.com/your-username/nextjs-restaurant-finder.git
+cd nextjs-restaurant-finder
+```
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
